@@ -4,4 +4,5 @@ title: "About me"
 
 ## Header
 
-Say more about you here.
+I am a PhD student at Aarhus university.
+My research interest is how 
